@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest a new file type, workflow, or improvement
+title: "Feature: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement to Universal 3D Previewer.
+  - type: textarea
+    id: feature
+    attributes:
+      label: What would you like added or improved?
+      placeholder: Describe the feature request.
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Why would this help?
+      description: Explain your workflow or what problem this would solve.
+      placeholder: Tell us how you would use this.
+    validations:
+      required: true
+  - type: input
+    id: file-type
+    attributes:
+      label: Related file type or format
+      description: If this is about a file format, name it here.
+      placeholder: Example: GLB, DAE, AMF, STEP assembly
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples or references
+      description: Add links, screenshots, or sample-file details if helpful.
