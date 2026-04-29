@@ -32,27 +32,19 @@ That guide walks you through the Terminal commands to restart Finder and clear s
 
 ## Report a Bug
 
-If the app is not working correctly, use the bug report form:
+If the app is not working correctly, start here:
 
-[Open a bug report](https://github.com/bj97301/universal-3d-previewer-app/issues/new?template=bug_report.yml)
+[Report a Bug](REPORT_A_BUG.md)
 
-Please include:
-
-- Your macOS version
-- The file type you tried to preview
-- What happened
-- What you expected to happen
-- Whether the troubleshooting steps helped
-
-If you do not have a GitHub account, you can still read the help pages here. GitHub requires an account only when creating a bug report or feature request.
+The bug report page explains what information to include and links to the bug report form.
 
 ## Request a Feature
 
-If you want a new file type, workflow, or behavior supported, use the feature request form:
+If you want a new file type, workflow, or behavior supported, start here:
 
-[Request a feature](https://github.com/bj97301/universal-3d-previewer-app/issues/new?template=feature_request.yml)
+[Request a Feature](REQUEST_A_FEATURE.md)
 
-Helpful feature requests explain the file type, workflow, or Finder behavior you want supported.
+The feature request page explains what information helps and links to the feature request form.
 
 ## Privacy
 
