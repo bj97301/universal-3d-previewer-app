@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Troubleshooting guide
+    url: https://github.com/bj97301/universal-3d-previewer-app/blob/main/TROUBLESHOOTING.md
+    about: Start here if Finder previews or thumbnails are stale.
