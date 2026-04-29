@@ -11,7 +11,8 @@ body:
     id: feature
     attributes:
       label: What would you like added or improved?
-      placeholder: Describe the feature request.
+      value: |
+        I would like Universal 3D Previewer to:
     validations:
       required: true
   - type: textarea
@@ -19,7 +20,10 @@ body:
     attributes:
       label: Why would this help?
       description: Explain your workflow or what problem this would solve.
-      placeholder: Tell us how you would use this.
+      value: |
+        This would help because:
+
+        My workflow is:
     validations:
       required: true
   - type: input
@@ -28,8 +32,11 @@ body:
       label: Related file type or format
       description: If this is about a file format, name it here.
       placeholder: Example: GLB, DAE, AMF, STEP assembly
+      value: ""
   - type: textarea
     id: examples
     attributes:
       label: Examples or references
       description: Add links, screenshots, or sample-file details if helpful.
+      value: |
+        Examples, references, screenshots, or sample-file details:
