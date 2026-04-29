@@ -13,8 +13,8 @@ Please describe:
 
 ## Submit the Feature Request
 
-When you are ready, open the feature request form:
+When you are ready, open the feature request template:
 
-[Open the feature request form](https://github.com/bj97301/universal-3d-previewer-app/issues/new?template=feature_request.yml)
+[Open the feature request template](https://github.com/bj97301/universal-3d-previewer-app/issues/new?template=feature_request.md)
 
-GitHub may call this an issue, but the form is specifically for feature requests and is labeled as an enhancement.
+GitHub may call this an issue, but the template is prefilled specifically for feature requests and is labeled as an enhancement.
