@@ -13,6 +13,7 @@ body:
       label: macOS version
       description: Example: macOS 15.5 Sequoia
       placeholder: macOS version
+      value: "macOS "
     validations:
       required: true
   - type: dropdown
@@ -35,14 +36,23 @@ body:
     attributes:
       label: What happened?
       description: Describe the problem you saw in Finder, Quick Look, thumbnails, or the app.
-      placeholder: Tell us what went wrong.
+      value: |
+        What I did:
+
+        What happened:
+
+        Where I saw it:
+        - Finder thumbnail
+        - Finder Quick Look preview
+        - Universal 3D Previewer app
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
       label: What did you expect to happen?
-      placeholder: Tell us what you expected instead.
+      value: |
+        I expected:
     validations:
       required: true
   - type: checkboxes
@@ -58,3 +68,5 @@ body:
     attributes:
       label: Anything else?
       description: Add screenshots, sample file details, or other context if helpful.
+      value: |
+        Screenshots, sample file details, or other notes:
