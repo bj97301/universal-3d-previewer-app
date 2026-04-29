@@ -36,7 +36,7 @@ If the app is not working correctly, start here:
 
 [Report a Bug](REPORT_A_BUG.md)
 
-The bug report page explains what information to include and links to the bug report form.
+The bug report page explains what information to include and links to a prefilled bug report page.
 
 ## Request a Feature
 
@@ -44,7 +44,7 @@ If you want a new file type, workflow, or behavior supported, start here:
 
 [Request a Feature](REQUEST_A_FEATURE.md)
 
-The feature request page explains what information helps and links to the feature request form.
+The feature request page explains what information helps and links to a prefilled feature request page.
 
 ## Privacy
 
