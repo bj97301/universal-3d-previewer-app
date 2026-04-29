@@ -18,8 +18,8 @@ A good bug report includes:
 
 ## Submit the Bug Report
 
-When you are ready, open the bug report form:
+When you are ready, open the bug report template:
 
-[Open the bug report form](https://github.com/bj97301/universal-3d-previewer-app/issues/new?template=bug_report.yml)
+[Open the bug report template](https://github.com/bj97301/universal-3d-previewer-app/issues/new?template=bug_report.md)
 
-GitHub may call this an issue, but the form is specifically for bug reports.
+GitHub may call this an issue, but the template is prefilled specifically for bug reports.
