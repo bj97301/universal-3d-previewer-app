@@ -20,6 +20,12 @@ Supported file types include:
 
 The app focuses on fast previews. Some complex CAD files may not render with perfect CAD fidelity.
 
+## Sample Files
+
+If you need files to test previews, thumbnails, or the app viewer, use the public sample files:
+
+[Download sample 3D files](Samples/README.md)
+
 ## If Finder Shows Old or Missing Previews
 
 macOS can keep Finder thumbnails and Quick Look previews cached after installing or updating an app.
